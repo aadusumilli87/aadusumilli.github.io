@@ -6,12 +6,15 @@ This website is intended to serve as a portfolio of projects I have completed, f
 
 * Email: aadusumilli87@gmail.com
 * LinkedIn: www.linkedin.com/in/amar-adusumilli
-### Academic Projects
+
+## Academic Projects
 
 #### Testing the Poverty-Inequality-Growth Triangle in the United States
+In this paper, I test whether former World Bank Chief Economist François Bourguignon's Poverty-Inequality-Growth hypothesis holds in the United States using a vector autoregressive approach, with macroeconomic data sourced from the FRED database. The paper was created with an R markdown document and the analysis was conducted in R. The repo, containing the final paper, constituent Rmd file, and source code can be accessed [here](https://github.com/aadusumilli87/Time-Series-Paper).
 
 #### Copula Simulation
+In this project, I conduct 256 simulations of ten-day changes in 4 financial assets using a Vine Copula to model the joint behavior of the 4 assets. From the simulations, Value at Risk metrics corresponding to desired percentiles can be obtained. The code can be accessed [here](https://github.com/aadusumilli87/Copula-Simulation).
 
 #### Predicting Property Values in Philadelphia
-
+(coming soon)
 
