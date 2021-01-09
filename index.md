@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Amar Adusumilli's Portfolio Webiste
 
-You can use the [editor on GitHub](https://github.com/aadusumilli87/aadusumilli.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is intended to serve as a portfolio of projects I have completed, for academic purposes or otherwise. My hope is that it provides a useful means to share my work, in addition to documenting my skillset as it (hopefully) increases. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Contact Info
 
-### Markdown
+* Email: aadusumilli87@gmail.com
+* LinkedIn: www.linkedin.com/in/amar-adusumilli
+### Academic Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Testing the Poverty-Inequality-Growth Triangle in the United States
 
-```markdown
-Syntax highlighted code block
+#### Copula Simulation
 
-# Header 1
-## Header 2
-### Header 3
+#### Predicting Property Values in Philadelphia
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadusumilli87/aadusumilli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
