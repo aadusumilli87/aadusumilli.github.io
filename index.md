@@ -18,3 +18,5 @@ In this project, I conduct 256 simulations of ten-day changes in 4 financial ass
 #### Predicting Property Values in Philadelphia
 Using regression techniques to predict home prices in Philadelphia from property assessment data. This was my first grad school project and is admittedly rather rough around the edges, however I decided to upload it for a few reasons. The foremost reason is that it contains some of my best visualizations - heatmaps of Philadelphia made using the sf GIS package. Additionally, the extraordinarily messy nature of the municipal property assessments data hopefully illustrates my ability to clean and wrangle data, as well employ some creativity with feature engineering. Code and paper are accessible [here](https://github.com/aadusumilli87/Philadelphia-Properties).
 
+#### Model Validation - Loss Distribution
+Project for Quantitative Risk Class (ECON 6295) where I improved upon another group's Excel model using Python. Code is accesible [here](https://github.com/aadusumilli87/Loss-Distribution-Model-Validation-).
